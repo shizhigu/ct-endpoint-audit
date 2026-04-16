@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or the underlying audit data, please cite as below."
+title: "ct-endpoint-audit: An Automated Audit of Primary-Endpoint Amendments on ClinicalTrials.gov"
+version: "1.0.0"
+date-released: "2026-04-16"
+authors:
+  - family-names: "Gu"
+    given-names: "Shizhi"
+    orcid: "https://orcid.org/0009-0009-3036-2268"
+type: software
+repository-code: "https://github.com/shizhigu/ct-endpoint-audit"
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+abstract: >
+  ClinicalTrials.gov exposes a complete version history of every registered
+  trial via a public but undocumented internal API endpoint
+  (api/int/studies/{NCT}/history). This repository provides an automated
+  audit pipeline that classifies every primary-outcome amendment into
+  temporal windows relative to primary completion and results submission.
+  In 1,000 Phase 3 industry-sponsored trials the naive "post-completion"
+  rate (11.5%) collapses to 2.8% when the data-lock anchor is corrected
+  from ResultsFirstPostDate to ResultsFirstSubmitDate — a 4.1-fold
+  reduction attributable entirely to anchor choice. Registry text-level
+  audits are a lower bound on manipulation; they cannot detect statistical-
+  analysis-plan changes such as population switches.
+keywords:
+  - ClinicalTrials.gov
+  - clinical trials
+  - primary endpoint
+  - outcome switching
+  - trial integrity
+  - registered outcomes
+  - systematic audit
+  - methodology
+license: MIT
