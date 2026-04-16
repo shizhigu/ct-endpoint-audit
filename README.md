@@ -2,6 +2,7 @@
 
 **Audit ClinicalTrials.gov primary-endpoint amendments via the platform's internal version-history API.**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19615594.svg)](https://doi.org/10.5281/zenodo.19615594)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Tests](https://img.shields.io/badge/tests-17%20passing-brightgreen)](./tests)
@@ -83,7 +84,7 @@ The PTC ataluren (Duchenne muscular dystrophy) case study illustrates a fundamen
   year         = {2026},
   version      = {1.0.0},
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.XXXXXXX},
+  doi          = {10.5281/zenodo.19615594},
 }
 ```
 

@@ -9,7 +9,8 @@ authors:
     orcid: "https://orcid.org/0009-0009-3036-2268"
 type: software
 repository-code: "https://github.com/shizhigu/ct-endpoint-audit"
-url: "https://doi.org/10.5281/zenodo.XXXXXXX"
+url: "https://doi.org/10.5281/zenodo.19615594"
+doi: "10.5281/zenodo.19615594"
 abstract: >
   ClinicalTrials.gov exposes a complete version history of every registered
   trial via a public but undocumented internal API endpoint
