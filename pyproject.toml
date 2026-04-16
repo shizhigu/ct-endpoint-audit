@@ -1,0 +1,81 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ct-endpoint-audit"
+version = "1.0.0"
+description = "Automated audit of ClinicalTrials.gov primary-endpoint amendments via the internal version-history API"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Shizhi Gu", email = "shizhigu97@gmail.com"},
+]
+keywords = [
+    "clinical-trials",
+    "clinicaltrials.gov",
+    "outcome-switching",
+    "trial-integrity",
+    "registered-outcomes",
+    "primary-endpoint",
+    "audit",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Intended Audience :: Healthcare Industry",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+requires-python = ">=3.10"
+dependencies = [
+    "scipy>=1.10.0,<2.0",
+    "matplotlib>=3.7.0,<4.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4",
+    "pytest-cov>=4.1",
+    "ruff>=0.5",
+    "black>=24.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/shizhigu/ct-endpoint-audit"
+Repository = "https://github.com/shizhigu/ct-endpoint-audit"
+Issues = "https://github.com/shizhigu/ct-endpoint-audit/issues"
+
+[project.scripts]
+ct-audit = "src.audit.batch_audit:main"
+
+[tool.setuptools]
+package-dir = {"" = "."}
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "SIM"]
+ignore = ["E501"]
+
+[tool.black]
+line-length = 100
+target-version = ["py310", "py311", "py312"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+addopts = "-v --tb=short"
+pythonpath = ["."]

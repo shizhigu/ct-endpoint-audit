@@ -1,0 +1,2087 @@
+[
+  {
+    "nct": "NCT04006457",
+    "sponsor": "Pfizer",
+    "primary_completion": "2024-06-25",
+    "results_first_submitted": "2025-06-24",
+    "results_first_post": "2025-08-14",
+    "changes_v2": [
+      {
+        "to_date": "2020-07-15",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-24"
+      },
+      {
+        "to_date": "2021-06-02",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-24"
+      },
+      {
+        "to_date": "2025-06-24",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-24"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04991935",
+    "sponsor": "Celgene",
+    "primary_completion": "2025-08-14",
+    "results_first_submitted": "2026-01-07",
+    "results_first_post": "2026-04-06",
+    "changes_v2": [
+      {
+        "to_date": "2026-01-07",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2026-01-07"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06134804",
+    "sponsor": "Janssen Research & Development, LLC",
+    "primary_completion": "2024-02-19",
+    "results_first_submitted": "2026-02-10",
+    "results_first_post": "2026-04-03",
+    "changes_v2": [
+      {
+        "to_date": "2026-02-10",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2026-02-10"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04368728",
+    "sponsor": "BioNTech SE",
+    "primary_completion": "2023-02-10",
+    "results_first_submitted": "2024-02-09",
+    "results_first_post": "2026-03-25",
+    "changes_v2": [
+      {
+        "to_date": "2020-07-15",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-02-09"
+      },
+      {
+        "to_date": "2021-03-30",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-02-09"
+      },
+      {
+        "to_date": "2024-02-09",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-02-09"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05248386",
+    "sponsor": "Gr\u00fcnenthal GmbH",
+    "primary_completion": "2024-11-18",
+    "results_first_submitted": "2025-06-27",
+    "results_first_post": "2025-08-12",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-27",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-27"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03179631",
+    "sponsor": "PTC Therapeutics",
+    "primary_completion": "2022-03-05",
+    "results_first_submitted": "2026-01-08",
+    "results_first_post": "2026-03-10",
+    "changes_v2": [
+      {
+        "to_date": "2018-10-23",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2026-01-08"
+      },
+      {
+        "to_date": "2026-01-08",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2026-01-08"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06553456",
+    "sponsor": "Protgen Ltd",
+    "primary_completion": "2025-05-14",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-09-24",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT05564117",
+    "sponsor": "Novo Nordisk A/S",
+    "primary_completion": "2024-04-18",
+    "results_first_submitted": "2026-01-20",
+    "results_first_post": "2026-02-25",
+    "changes_v2": [
+      {
+        "to_date": "2026-01-20",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2026-01-20"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04738487",
+    "sponsor": "Merck Sharp & Dohme LLC",
+    "primary_completion": "2024-09-05",
+    "results_first_submitted": "2025-07-28",
+    "results_first_post": "2025-08-26",
+    "changes_v2": [
+      {
+        "to_date": "2024-10-28",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-07-28"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05248880",
+    "sponsor": "AbbVie",
+    "primary_completion": "2023-02-01",
+    "results_first_submitted": "2026-01-05",
+    "results_first_post": "2026-02-18",
+    "changes_v2": [
+      {
+        "to_date": "2026-01-05",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2026-01-05"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03621670",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2024-12-27",
+    "results_first_submitted": "2025-12-23",
+    "results_first_post": "2026-02-10",
+    "changes_v2": [
+      {
+        "to_date": "2025-12-23",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-12-23"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04127786",
+    "sponsor": "Sanofi Pasteur, a Sanofi Company",
+    "primary_completion": "2020-03-25",
+    "results_first_submitted": "2023-12-26",
+    "results_first_post": "2024-02-09",
+    "changes_v2": [
+      {
+        "to_date": "2023-12-26",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-12-26"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04432831",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2023-10-11",
+    "results_first_submitted": "2024-10-07",
+    "results_first_post": "2024-10-30",
+    "changes_v2": [
+      {
+        "to_date": "2024-08-23",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2024-10-07"
+      },
+      {
+        "to_date": "2024-10-07",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-10-07"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03829319",
+    "sponsor": "Merck Sharp & Dohme LLC",
+    "primary_completion": "2023-08-11",
+    "results_first_submitted": "2024-08-09",
+    "results_first_post": "2025-02-21",
+    "changes_v2": [
+      {
+        "to_date": "2021-05-24",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-08-09"
+      },
+      {
+        "to_date": "2024-08-09",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-08-09"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04644029",
+    "sponsor": "Merck Sharp & Dohme LLC",
+    "primary_completion": "2023-07-18",
+    "results_first_submitted": "2024-06-26",
+    "results_first_post": "2024-08-09",
+    "changes_v2": [
+      {
+        "to_date": "2024-06-26",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-06-26"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05842954",
+    "sponsor": "Novartis Pharmaceuticals",
+    "primary_completion": "2025-06-27",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-12-11",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT04851964",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2024-09-23",
+    "results_first_submitted": "2025-09-12",
+    "results_first_post": "2026-01-27",
+    "changes_v2": [
+      {
+        "to_date": "2025-09-16",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-09-12"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05243680",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2025-05-19",
+    "results_first_submitted": "2025-11-18",
+    "results_first_post": "2026-01-15",
+    "changes_v2": [
+      {
+        "to_date": "2025-11-18",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-11-18"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05056727",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2024-02-07",
+    "results_first_submitted": "2025-02-12",
+    "results_first_post": "2026-01-08",
+    "changes_v2": [
+      {
+        "to_date": "2025-02-12",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-02-12"
+      }
+    ]
+  },
+  {
+    "nct": "NCT00200343",
+    "sponsor": "Tanabe Pharma Corporation",
+    "primary_completion": null,
+    "results_first_submitted": "2011-08-17",
+    "results_first_post": "2011-11-07",
+    "changes_v2": [
+      {
+        "to_date": "2011-09-29",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2011-08-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06437626",
+    "sponsor": "Pharmasoft",
+    "primary_completion": "2023-08-18",
+    "results_first_submitted": "2025-04-04",
+    "results_first_post": "2025-12-08",
+    "changes_v2": [
+      {
+        "to_date": "2024-07-12",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-04-04"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04569084",
+    "sponsor": "Tanabe Pharma America, Inc.",
+    "primary_completion": "2023-09-29",
+    "results_first_submitted": "2024-09-19",
+    "results_first_post": "2025-03-27",
+    "changes_v2": [
+      {
+        "to_date": "2024-11-05",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-09-19"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05330975",
+    "sponsor": "ModernaTX, Inc.",
+    "primary_completion": "2024-11-08",
+    "results_first_submitted": "2025-11-07",
+    "results_first_post": "2025-12-30",
+    "changes_v2": [
+      {
+        "to_date": "2022-08-07",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-11-07"
+      },
+      {
+        "to_date": "2023-08-30",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-11-07"
+      },
+      {
+        "to_date": "2025-11-07",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-11-07"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06374394",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2024-11-01",
+    "results_first_submitted": "2025-10-31",
+    "results_first_post": "2025-12-26",
+    "changes_v2": [
+      {
+        "to_date": "2025-10-31",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-10-31"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04090957",
+    "sponsor": "Estetra",
+    "primary_completion": "2022-08-18",
+    "results_first_submitted": "2025-06-25",
+    "results_first_post": "2025-12-26",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-25",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04845620",
+    "sponsor": "Arcutis Biotherapeutics, Inc.",
+    "primary_completion": "2023-06-01",
+    "results_first_submitted": "2025-11-03",
+    "results_first_post": "2025-12-23",
+    "changes_v2": [
+      {
+        "to_date": "2021-12-28",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-11-03"
+      },
+      {
+        "to_date": "2025-11-03",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-11-03"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04804605",
+    "sponsor": "Arcutis Biotherapeutics, Inc.",
+    "primary_completion": "2024-05-28",
+    "results_first_submitted": "2025-11-03",
+    "results_first_post": "2025-12-23",
+    "changes_v2": [
+      {
+        "to_date": "2025-11-03",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-11-03"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06279871",
+    "sponsor": "Arcturus Therapeutics, Inc.",
+    "primary_completion": "2024-10-09",
+    "results_first_submitted": "2025-10-07",
+    "results_first_post": "2025-12-12",
+    "changes_v2": [
+      {
+        "to_date": "2025-10-07",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-10-07"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03608033",
+    "sponsor": "Omeros Corporation",
+    "primary_completion": "2024-01-12",
+    "results_first_submitted": "2025-01-10",
+    "results_first_post": "2025-12-09",
+    "changes_v2": [
+      {
+        "to_date": "2024-03-12",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-01-10"
+      },
+      {
+        "to_date": "2025-01-10",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-01-10"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03013751",
+    "sponsor": "Mezzion Pharma Co. Ltd",
+    "primary_completion": "2019-12-30",
+    "results_first_submitted": "2025-10-29",
+    "results_first_post": "2025-12-09",
+    "changes_v2": [
+      {
+        "to_date": "2025-10-29",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-10-29"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06284915",
+    "sponsor": "Sanofi Pasteur, a Sanofi Company",
+    "primary_completion": "2025-11-14",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-11-24",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT01358877",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2016-12-19",
+    "results_first_submitted": "2017-12-04",
+    "results_first_post": "2018-01-05",
+    "changes_v2": [
+      {
+        "to_date": "2016-09-01",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2017-12-04"
+      },
+      {
+        "to_date": "2017-04-20",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2017-12-04"
+      },
+      {
+        "to_date": "2017-12-04",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2017-12-04"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04735393",
+    "sponsor": "Aldeyra Therapeutics, Inc.",
+    "primary_completion": "2022-10-11",
+    "results_first_submitted": "2025-10-17",
+    "results_first_post": "2025-11-26",
+    "changes_v2": [
+      {
+        "to_date": "2025-10-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-10-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05264506",
+    "sponsor": "Organon and Co",
+    "primary_completion": "2024-01-12",
+    "results_first_submitted": "2025-01-12",
+    "results_first_post": "2025-11-21",
+    "changes_v2": [
+      {
+        "to_date": "2025-01-12",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-01-12"
+      },
+      {
+        "to_date": "2025-02-20",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-01-12"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05041803",
+    "sponsor": "Sun Pharmaceutical Industries, Inc.",
+    "primary_completion": "2024-07-18",
+    "results_first_submitted": "2025-07-17",
+    "results_first_post": "2025-11-21",
+    "changes_v2": [
+      {
+        "to_date": "2025-07-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-07-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05811247",
+    "sponsor": "Apnimed",
+    "primary_completion": "2025-05-07",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-11-18",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT03560466",
+    "sponsor": "Sanofi",
+    "primary_completion": "2025-04-01",
+    "results_first_submitted": "2025-10-03",
+    "results_first_post": "2025-11-21",
+    "changes_v2": [
+      {
+        "to_date": "2021-05-20",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-10-03"
+      },
+      {
+        "to_date": "2025-10-03",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-10-03"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05813275",
+    "sponsor": "Apnimed",
+    "primary_completion": "2025-03-10",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-11-18",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT06017999",
+    "sponsor": "Xgene Pharmaceutical Group",
+    "primary_completion": "2024-08-29",
+    "results_first_submitted": "2025-08-26",
+    "results_first_post": "2025-11-17",
+    "changes_v2": [
+      {
+        "to_date": "2025-09-16",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-08-26"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04417257",
+    "sponsor": "Laurent Pharmaceuticals Inc.",
+    "primary_completion": "2024-02-15",
+    "results_first_submitted": "2025-08-05",
+    "results_first_post": "2025-11-13",
+    "changes_v2": [
+      {
+        "to_date": "2020-11-21",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-08-05"
+      },
+      {
+        "to_date": "2022-01-05",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-08-05"
+      },
+      {
+        "to_date": "2025-08-05",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-08-05"
+      },
+      {
+        "to_date": "2025-09-16",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-08-05"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04955626",
+    "sponsor": "BioNTech SE",
+    "primary_completion": "2023-05-25",
+    "results_first_submitted": "2024-05-15",
+    "results_first_post": "2025-11-10",
+    "changes_v2": [
+      {
+        "to_date": "2021-12-02",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-05-15"
+      },
+      {
+        "to_date": "2022-01-26",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-05-15"
+      },
+      {
+        "to_date": "2022-02-11",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-05-15"
+      },
+      {
+        "to_date": "2022-03-29",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-05-15"
+      },
+      {
+        "to_date": "2022-11-02",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-05-15"
+      },
+      {
+        "to_date": "2024-05-15",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-05-15"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04770220",
+    "sponsor": "Alzheon Inc.",
+    "primary_completion": "2024-05-29",
+    "results_first_submitted": "2025-09-11",
+    "results_first_post": "2025-11-10",
+    "changes_v2": [
+      {
+        "to_date": "2021-02-25",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-09-11"
+      },
+      {
+        "to_date": "2024-07-31",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-09-11"
+      },
+      {
+        "to_date": "2025-10-23",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-09-11"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05012943",
+    "sponsor": "Vinbiocare Biotechnology Joint Stock Company",
+    "primary_completion": "2023-01-18",
+    "results_first_submitted": "2025-03-20",
+    "results_first_post": "2025-11-06",
+    "changes_v2": [
+      {
+        "to_date": "2022-01-04",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-20"
+      },
+      {
+        "to_date": "2022-03-14",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-20"
+      },
+      {
+        "to_date": "2025-03-20",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-20"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04777201",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2024-09-03",
+    "results_first_submitted": "2025-09-02",
+    "results_first_post": "2025-10-24",
+    "changes_v2": [
+      {
+        "to_date": "2023-09-19",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-09-02"
+      },
+      {
+        "to_date": "2024-12-06",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-09-02"
+      },
+      {
+        "to_date": "2025-09-02",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-09-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05030350",
+    "sponsor": "VistaGen Therapeutics, Inc.",
+    "primary_completion": "2022-09-23",
+    "results_first_submitted": "2024-06-13",
+    "results_first_post": "2025-10-21",
+    "changes_v2": [
+      {
+        "to_date": "2024-06-13",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-06-13"
+      },
+      {
+        "to_date": "2025-10-02",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-06-13"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05763875",
+    "sponsor": "Novartis Pharmaceuticals",
+    "primary_completion": "2024-06-20",
+    "results_first_submitted": "2025-06-17",
+    "results_first_post": "2025-08-13",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03412773",
+    "sponsor": "BeiGene",
+    "primary_completion": "2022-07-11",
+    "results_first_submitted": "2024-12-12",
+    "results_first_post": "2025-10-14",
+    "changes_v2": [
+      {
+        "to_date": "2024-12-12",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-12"
+      },
+      {
+        "to_date": "2025-03-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-12"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03083665",
+    "sponsor": "UCB Biopharma SRL",
+    "primary_completion": "2022-06-30",
+    "results_first_submitted": "2022-12-15",
+    "results_first_post": "2023-11-09",
+    "changes_v2": [
+      {
+        "to_date": "2019-04-09",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2022-12-15"
+      },
+      {
+        "to_date": "2022-10-06",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2022-12-15"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02427464",
+    "sponsor": "Helixmith Co., Ltd.",
+    "primary_completion": "2019-04",
+    "results_first_submitted": "2022-06-22",
+    "results_first_post": "2022-08-22",
+    "changes_v2": [
+      {
+        "to_date": "2022-06-15",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-06-22"
+      },
+      {
+        "to_date": "2022-07-26",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-06-22"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04976192",
+    "sponsor": "Teva Pharmaceuticals USA",
+    "primary_completion": "2024-04-05",
+    "results_first_submitted": "2025-03-27",
+    "results_first_post": "2025-10-07",
+    "changes_v2": [
+      {
+        "to_date": "2025-03-27",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-27"
+      },
+      {
+        "to_date": "2025-09-18",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-27"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05472038",
+    "sponsor": "BioNTech SE",
+    "primary_completion": "2024-03-26",
+    "results_first_submitted": "2025-03-10",
+    "results_first_post": "2025-10-01",
+    "changes_v2": [
+      {
+        "to_date": "2022-09-29",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-10"
+      },
+      {
+        "to_date": "2025-03-10",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-10"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04186845",
+    "sponsor": "Blue Earth Diagnostics",
+    "primary_completion": "2021-04-28",
+    "results_first_submitted": "2024-07-19",
+    "results_first_post": "2025-02-26",
+    "changes_v2": [
+      {
+        "to_date": "2024-07-19",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-07-19"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05573464",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2024-03-26",
+    "results_first_submitted": "2025-09-02",
+    "results_first_post": "2025-09-19",
+    "changes_v2": [
+      {
+        "to_date": "2025-03-25",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-09-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04478084",
+    "sponsor": "Sanofi Pasteur, a Sanofi Company",
+    "primary_completion": "2022-03-19",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2022-03-31",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT04762680",
+    "sponsor": "Sanofi Pasteur, a Sanofi Company",
+    "primary_completion": "2023-06-29",
+    "results_first_submitted": "2025-03-06",
+    "results_first_post": "2025-09-18",
+    "changes_v2": [
+      {
+        "to_date": "2025-03-06",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-06"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02967692",
+    "sponsor": "Novartis Pharmaceuticals",
+    "primary_completion": "2020-08-11",
+    "results_first_submitted": "2023-06-26",
+    "results_first_post": "2023-07-24",
+    "changes_v2": [
+      {
+        "to_date": "2022-01-14",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2023-06-26"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04137887",
+    "sponsor": "Sanofi Pasteur, a Sanofi Company",
+    "primary_completion": "2020-05-31",
+    "results_first_submitted": "2023-03-30",
+    "results_first_post": "2023-06-08",
+    "changes_v2": [
+      {
+        "to_date": "2023-03-30",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-03-30"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04649151",
+    "sponsor": "ModernaTX, Inc.",
+    "primary_completion": "2024-06-14",
+    "results_first_submitted": "2025-06-09",
+    "results_first_post": "2025-09-15",
+    "changes_v2": [
+      {
+        "to_date": "2021-06-02",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-09"
+      },
+      {
+        "to_date": "2021-12-16",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-09"
+      },
+      {
+        "to_date": "2023-01-05",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-09"
+      },
+      {
+        "to_date": "2025-06-09",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-09"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04683627",
+    "sponsor": "Noven Pharmaceuticals, Inc.",
+    "primary_completion": "2022-07-18",
+    "results_first_submitted": "2025-07-08",
+    "results_first_post": "2025-09-04",
+    "changes_v2": [
+      {
+        "to_date": "2025-07-08",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-07-08"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04057573",
+    "sponsor": "Incyte Corporation",
+    "primary_completion": "2021-03-15",
+    "results_first_submitted": "2022-07-20",
+    "results_first_post": "2022-09-21",
+    "changes_v2": [
+      {
+        "to_date": "2022-07-20",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-07-20"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04052425",
+    "sponsor": "Incyte Corporation",
+    "primary_completion": "2021-03-18",
+    "results_first_submitted": "2022-07-20",
+    "results_first_post": "2022-09-21",
+    "changes_v2": [
+      {
+        "to_date": "2022-07-20",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-07-20"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04847557",
+    "sponsor": "Eli Lilly and Company",
+    "primary_completion": "2024-07-02",
+    "results_first_submitted": "2025-07-02",
+    "results_first_post": "2025-08-20",
+    "changes_v2": [
+      {
+        "to_date": "2024-04-18",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-07-02"
+      },
+      {
+        "to_date": "2025-07-02",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-07-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04530344",
+    "sponsor": "Incyte Corporation",
+    "primary_completion": "2022-11-14",
+    "results_first_submitted": "2023-05-25",
+    "results_first_post": "2023-07-19",
+    "changes_v2": [
+      {
+        "to_date": "2023-05-25",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-05-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05142774",
+    "sponsor": "Organon and Co",
+    "primary_completion": "2024-02-29",
+    "results_first_submitted": "2025-01-13",
+    "results_first_post": "2025-08-13",
+    "changes_v2": [
+      {
+        "to_date": "2024-04-05",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-01-13"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04635423",
+    "sponsor": "Merck Sharp & Dohme LLC",
+    "primary_completion": "2023-12-31",
+    "results_first_submitted": "2024-12-12",
+    "results_first_post": "2025-01-13",
+    "changes_v2": [
+      {
+        "to_date": "2024-12-12",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-12"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05842967",
+    "sponsor": "Pfizer",
+    "primary_completion": "2024-03-18",
+    "results_first_submitted": "2025-03-03",
+    "results_first_post": "2025-08-08",
+    "changes_v2": [
+      {
+        "to_date": "2023-09-22",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-03"
+      },
+      {
+        "to_date": "2025-03-03",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-03"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04053387",
+    "sponsor": "Organon and Co",
+    "primary_completion": "2021-04-06",
+    "results_first_submitted": "2022-06-21",
+    "results_first_post": "2022-08-08",
+    "changes_v2": [
+      {
+        "to_date": "2019-08-22",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2022-06-21"
+      },
+      {
+        "to_date": "2022-06-21",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-06-21"
+      }
+    ]
+  },
+  {
+    "nct": "NCT06060457",
+    "sponsor": "ModernaTX, Inc.",
+    "primary_completion": "2024-06-07",
+    "results_first_submitted": "2025-06-05",
+    "results_first_post": "2025-07-30",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-05",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-05"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03783442",
+    "sponsor": "BeiGene",
+    "primary_completion": "2022-02-28",
+    "results_first_submitted": "2023-10-10",
+    "results_first_post": "2023-11-07",
+    "changes_v2": [
+      {
+        "to_date": "2022-04-26",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2023-10-10"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04426890",
+    "sponsor": "Celltrion",
+    "primary_completion": "2022-10-21",
+    "results_first_submitted": "2025-04-29",
+    "results_first_post": "2025-07-29",
+    "changes_v2": [
+      {
+        "to_date": "2025-04-29",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-04-29"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05360966",
+    "sponsor": "Aerie Pharmaceuticals",
+    "primary_completion": "2023-10-17",
+    "results_first_submitted": "2025-06-02",
+    "results_first_post": "2025-07-23",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-02",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT00087776",
+    "sponsor": "American Regent, Inc.",
+    "primary_completion": "2007-10-27",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2025-07-21",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT05285644",
+    "sponsor": "Aerie Pharmaceuticals",
+    "primary_completion": "2023-07-24",
+    "results_first_submitted": "2025-06-02",
+    "results_first_post": "2025-07-23",
+    "changes_v2": [
+      {
+        "to_date": "2025-06-02",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03823287",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2020-10-26",
+    "results_first_submitted": "2022-02-25",
+    "results_first_post": "2022-05-04",
+    "changes_v2": [
+      {
+        "to_date": "2022-02-25",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-02-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03112174",
+    "sponsor": "Pharmacyclics LLC.",
+    "primary_completion": "2024-06-26",
+    "results_first_submitted": "2025-06-10",
+    "results_first_post": "2025-07-22",
+    "changes_v2": [
+      {
+        "to_date": "2019-11-26",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-10"
+      },
+      {
+        "to_date": "2021-07-20",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-06-10"
+      },
+      {
+        "to_date": "2025-06-10",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-06-10"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03823300",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2020-10-05",
+    "results_first_submitted": "2022-02-25",
+    "results_first_post": "2022-05-04",
+    "changes_v2": [
+      {
+        "to_date": "2022-02-25",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2022-02-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05281094",
+    "sponsor": "HilleVax",
+    "primary_completion": "2023-12-28",
+    "results_first_submitted": "2024-11-25",
+    "results_first_post": "2025-07-10",
+    "changes_v2": [
+      {
+        "to_date": "2025-02-27",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-11-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04445519",
+    "sponsor": "Nicox Ophthalmics, Inc.",
+    "primary_completion": "2022-09-16",
+    "results_first_submitted": "2024-09-19",
+    "results_first_post": "2025-05-30",
+    "changes_v2": [
+      {
+        "to_date": "2024-09-19",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-09-19"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03497975",
+    "sponsor": "Trevi Therapeutics",
+    "primary_completion": "2022-05-10",
+    "results_first_submitted": "2025-04-25",
+    "results_first_post": "2025-06-24",
+    "changes_v2": [
+      {
+        "to_date": "2019-07-15",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-04-25"
+      },
+      {
+        "to_date": "2025-04-25",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-04-25"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04847232",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2024-03-07",
+    "results_first_submitted": "2025-03-05",
+    "results_first_post": "2025-06-18",
+    "changes_v2": [
+      {
+        "to_date": "2025-03-05",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-05"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04796896",
+    "sponsor": "ModernaTX, Inc.",
+    "primary_completion": "2024-03-15",
+    "results_first_submitted": "2025-03-14",
+    "results_first_post": "2025-06-13",
+    "changes_v2": [
+      {
+        "to_date": "2022-04-14",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-14"
+      },
+      {
+        "to_date": "2025-03-14",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-14"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05743075",
+    "sponsor": "Nuance Pharma (shanghai) Co., Ltd",
+    "primary_completion": "2024-12-06",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2026-01-26",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT03918447",
+    "sponsor": "Biogen",
+    "primary_completion": "2023-08-08",
+    "results_first_submitted": "2024-04-26",
+    "results_first_post": "2024-06-11",
+    "changes_v2": [
+      {
+        "to_date": "2024-04-26",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-04-26"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05070546",
+    "sponsor": "Janssen Vaccines & Prevention B.V.",
+    "primary_completion": "2022-08-12",
+    "results_first_submitted": "2023-08-11",
+    "results_first_post": "2023-10-04",
+    "changes_v2": [
+      {
+        "to_date": "2023-08-11",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-08-11"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04209205",
+    "sponsor": "Novartis Pharmaceuticals",
+    "primary_completion": "2022-05-17",
+    "results_first_submitted": "2023-05-08",
+    "results_first_post": "2024-04-26",
+    "changes_v2": [
+      {
+        "to_date": "2023-05-08",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-05-08"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05362058",
+    "sponsor": "Eli Lilly and Company",
+    "primary_completion": "2024-04-10",
+    "results_first_submitted": "2025-04-07",
+    "results_first_post": "2025-05-16",
+    "changes_v2": [
+      {
+        "to_date": "2025-04-07",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-04-07"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05540522",
+    "sponsor": "Pfizer",
+    "primary_completion": "2024-03-12",
+    "results_first_submitted": "2025-03-11",
+    "results_first_post": "2025-05-08",
+    "changes_v2": [
+      {
+        "to_date": "2023-07-14",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2025-03-11"
+      },
+      {
+        "to_date": "2025-03-11",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-11"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04073303",
+    "sponsor": "AbbVie",
+    "primary_completion": "2022-11-10",
+    "results_first_submitted": "2025-03-24",
+    "results_first_post": "2025-05-06",
+    "changes_v2": [
+      {
+        "to_date": "2025-03-24",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-03-24"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05686044",
+    "sponsor": "Annovis Bio Inc.",
+    "primary_completion": "2024-02-13",
+    "results_first_submitted": "2025-02-17",
+    "results_first_post": "2025-04-29",
+    "changes_v2": [
+      {
+        "to_date": "2025-02-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-02-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02437162",
+    "sponsor": "Janssen Research & Development, LLC",
+    "primary_completion": "2017-03-22",
+    "results_first_submitted": "2018-03-22",
+    "results_first_post": "2018-04-23",
+    "changes_v2": [
+      {
+        "to_date": "2018-03-22",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2018-03-22"
+      }
+    ]
+  },
+  {
+    "nct": "NCT00460512",
+    "sponsor": "Janssen-Cilag International NV",
+    "primary_completion": "2009-01-22",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2009-03-12",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      },
+      {
+        "to_date": "2009-03-19",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      },
+      {
+        "to_date": "2013-03-29",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT04980391",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2023-05-30",
+    "results_first_submitted": "2023-11-28",
+    "results_first_post": "2024-02-06",
+    "changes_v2": [
+      {
+        "to_date": "2023-11-28",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-11-28"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02017717",
+    "sponsor": "Bristol-Myers Squibb",
+    "primary_completion": "2019-06-17",
+    "results_first_submitted": "2022-06-02",
+    "results_first_post": "2022-06-29",
+    "changes_v2": [
+      {
+        "to_date": "2020-01-09",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2022-06-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05966090",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2024-02-19",
+    "results_first_submitted": "2025-02-18",
+    "results_first_post": "2025-04-01",
+    "changes_v2": [
+      {
+        "to_date": "2025-02-18",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-02-18"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05997290",
+    "sponsor": "BioNTech SE",
+    "primary_completion": "2025-03-13",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2023-10-20",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": null
+      },
+      {
+        "to_date": "2026-03-09",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT04338061",
+    "sponsor": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+    "primary_completion": "2023-10-02",
+    "results_first_submitted": "2024-10-01",
+    "results_first_post": "2025-01-14",
+    "changes_v2": [
+      {
+        "to_date": "2023-02-28",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-10-01"
+      },
+      {
+        "to_date": "2023-06-30",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-10-01"
+      },
+      {
+        "to_date": "2024-10-01",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-10-01"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03819153",
+    "sponsor": "Novo Nordisk A/S",
+    "primary_completion": "2024-01-09",
+    "results_first_submitted": "2025-01-05",
+    "results_first_post": "2025-03-20",
+    "changes_v2": [
+      {
+        "to_date": "2025-01-08",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-01-05"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02677298",
+    "sponsor": "Croma-Pharma GmbH",
+    "primary_completion": "2016-11-23",
+    "results_first_submitted": "2024-12-17",
+    "results_first_post": "2025-03-19",
+    "changes_v2": [
+      {
+        "to_date": "2022-05-13",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2024-12-17"
+      },
+      {
+        "to_date": "2025-03-11",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05062330",
+    "sponsor": "Aldeyra Therapeutics, Inc.",
+    "primary_completion": "2022-03-04",
+    "results_first_submitted": "2025-02-27",
+    "results_first_post": "2025-03-18",
+    "changes_v2": [
+      {
+        "to_date": "2022-06-03",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2025-02-27"
+      },
+      {
+        "to_date": "2025-02-27",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-02-27"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05648110",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2024-03-29",
+    "results_first_submitted": null,
+    "results_first_post": null,
+    "changes_v2": [
+      {
+        "to_date": "2023-06-29",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": null
+      },
+      {
+        "to_date": "2025-09-25",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": null
+      }
+    ]
+  },
+  {
+    "nct": "NCT04753697",
+    "sponsor": "Celgene",
+    "primary_completion": "2024-01-11",
+    "results_first_submitted": "2025-01-09",
+    "results_first_post": "2025-03-13",
+    "changes_v2": [
+      {
+        "to_date": "2025-01-09",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2025-01-09"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05836012",
+    "sponsor": "HilleVax",
+    "primary_completion": "2024-01-19",
+    "results_first_submitted": "2024-12-04",
+    "results_first_post": "2025-03-12",
+    "changes_v2": [
+      {
+        "to_date": "2024-12-04",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-04"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04556656",
+    "sponsor": "Prilenia",
+    "primary_completion": "2023-03-14",
+    "results_first_submitted": "2024-06-13",
+    "results_first_post": "2025-03-12",
+    "changes_v2": [
+      {
+        "to_date": "2024-06-13",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-06-13"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04564742",
+    "sponsor": "AstraZeneca",
+    "primary_completion": "2023-07-05",
+    "results_first_submitted": "2024-07-02",
+    "results_first_post": "2025-03-07",
+    "changes_v2": [
+      {
+        "to_date": "2023-05-11",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-07-02"
+      },
+      {
+        "to_date": "2024-07-02",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-07-02"
+      }
+    ]
+  },
+  {
+    "nct": "NCT01160211",
+    "sponsor": "Novartis Pharmaceuticals",
+    "primary_completion": "2016-03-11",
+    "results_first_submitted": "2019-01-03",
+    "results_first_post": "2019-07-15",
+    "changes_v2": [
+      {
+        "to_date": "2019-05-01",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2019-01-03"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04318548",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2023-11-21",
+    "results_first_submitted": "2024-12-24",
+    "results_first_post": "2025-03-04",
+    "changes_v2": [
+      {
+        "to_date": "2024-12-24",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-12-24"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04927065",
+    "sponsor": "ModernaTX, Inc.",
+    "primary_completion": "2023-11-17",
+    "results_first_submitted": "2024-11-15",
+    "results_first_post": "2025-02-28",
+    "changes_v2": [
+      {
+        "to_date": "2022-04-25",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-11-15"
+      },
+      {
+        "to_date": "2024-11-15",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-11-15"
+      }
+    ]
+  },
+  {
+    "nct": "NCT05329220",
+    "sponsor": "Bavarian Nordic",
+    "primary_completion": "2023-03-15",
+    "results_first_submitted": "2024-03-19",
+    "results_first_post": "2025-02-24",
+    "changes_v2": [
+      {
+        "to_date": "2024-08-09",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-03-19"
+      }
+    ]
+  },
+  {
+    "nct": "NCT02807636",
+    "sponsor": "Hoffmann-La Roche",
+    "primary_completion": "2022-08-31",
+    "results_first_submitted": "2023-08-22",
+    "results_first_post": "2023-12-13",
+    "changes_v2": [
+      {
+        "to_date": "2023-06-08",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2023-08-22"
+      },
+      {
+        "to_date": "2023-12-11",
+        "old_window": "C_results_reporting",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-08-22"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04605159",
+    "sponsor": "GlaxoSmithKline",
+    "primary_completion": "2023-06-14",
+    "results_first_submitted": "2024-06-13",
+    "results_first_post": "2024-09-05",
+    "changes_v2": [
+      {
+        "to_date": "2022-05-20",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-06-13"
+      },
+      {
+        "to_date": "2024-06-13",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-06-13"
+      }
+    ]
+  },
+  {
+    "nct": "NCT03088813",
+    "sponsor": "Ipsen",
+    "primary_completion": "2022-02-08",
+    "results_first_submitted": "2023-08-17",
+    "results_first_post": "2023-10-17",
+    "changes_v2": [
+      {
+        "to_date": "2023-08-17",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2023-08-17"
+      }
+    ]
+  },
+  {
+    "nct": "NCT01426425",
+    "sponsor": "Medtronic Cardiac Ablation Solutions",
+    "primary_completion": "2015-09",
+    "results_first_submitted": "2016-09-22",
+    "results_first_post": "2017-03-31",
+    "changes_v2": [
+      {
+        "to_date": "2013-02-12",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2016-09-22"
+      },
+      {
+        "to_date": "2017-02-14",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2016-09-22"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04424316",
+    "sponsor": "Pfizer",
+    "primary_completion": "2023-10-27",
+    "results_first_submitted": "2024-10-11",
+    "results_first_post": "2025-02-11",
+    "changes_v2": [
+      {
+        "to_date": "2024-10-11",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-10-11"
+      }
+    ]
+  },
+  {
+    "nct": "NCT01084876",
+    "sponsor": "Celltrion",
+    "primary_completion": "2012-07",
+    "results_first_submitted": "2024-10-29",
+    "results_first_post": "2025-02-11",
+    "changes_v2": [
+      {
+        "to_date": "2010-08-22",
+        "old_window": "A_amendment",
+        "new_window": "A_amendment",
+        "rfs_effective": "2024-10-29"
+      },
+      {
+        "to_date": "2024-08-27",
+        "old_window": "B_between",
+        "new_window": "B_between_v2",
+        "rfs_effective": "2024-10-29"
+      }
+    ]
+  },
+  {
+    "nct": "NCT04908722",
+    "sponsor": "Janssen Vaccines & Prevention B.V.",
+    "primary_completion": "2023-07-10",
+    "results_first_submitted": "2024-01-22",
+    "results_first_post": "2024-05-23",
+    "changes_v2": [
+      {
+        "to_date": "2024-01-22",
+        "old_window": "B_between",
+        "new_window": "C_results_reporting_v2",
+        "rfs_effective": "2024-01-22"
+      }
+    ]
+  }
+]
